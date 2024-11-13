@@ -1,1 +1,1 @@
-# katospotka
+# katowice-events-backend
